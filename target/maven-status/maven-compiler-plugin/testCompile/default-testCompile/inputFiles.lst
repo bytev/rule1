@@ -1,0 +1,7 @@
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/integration/utils/EmbeddedSingleNodeKafkaCluster.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/integration/utils/IntegrationTestUtils.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/drools/DroolsRulesApplierTest.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/integration/StreamingDroolsIntegrationTest.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/drools/DroolsSessionFactoryTest.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/integration/utils/KafkaEmbedded.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/test/java/uk/co/hadoopathome/kafkastreams/integration/utils/ZooKeeperEmbedded.java

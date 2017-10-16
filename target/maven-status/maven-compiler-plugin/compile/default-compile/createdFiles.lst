@@ -1,0 +1,8 @@
+uk/co/hadoopathome/kafkastreams/drools/ZebraMsgBuilder.class
+uk/co/hadoopathome/kafkastreams/drools/DroolsRulesApplier.class
+uk/co/hadoopathome/kafkastreams/KafkaStreamsRunner.class
+uk/co/hadoopathome/kafkastreams/drools/ZebraMsg.class
+uk/co/hadoopathome/kafkastreams/configuration/ConfigurationReader.class
+uk/co/hadoopathome/kafkastreams/drools/Message.class
+uk/co/hadoopathome/kafkastreams/drools/DroolsSessionFactory.class
+uk/co/hadoopathome/kafkastreams/KafkaStreamsDroolsMain.class

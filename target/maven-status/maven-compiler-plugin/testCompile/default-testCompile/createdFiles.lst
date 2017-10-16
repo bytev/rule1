@@ -1,0 +1,7 @@
+uk/co/hadoopathome/kafkastreams/integration/utils/KafkaEmbedded.class
+uk/co/hadoopathome/kafkastreams/integration/utils/IntegrationTestUtils.class
+uk/co/hadoopathome/kafkastreams/integration/utils/EmbeddedSingleNodeKafkaCluster.class
+uk/co/hadoopathome/kafkastreams/drools/DroolsRulesApplierTest.class
+uk/co/hadoopathome/kafkastreams/integration/utils/ZooKeeperEmbedded.class
+uk/co/hadoopathome/kafkastreams/integration/StreamingDroolsIntegrationTest.class
+uk/co/hadoopathome/kafkastreams/drools/DroolsSessionFactoryTest.class

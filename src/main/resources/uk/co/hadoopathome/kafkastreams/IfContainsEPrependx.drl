@@ -1,0 +1,15 @@
+package uk.co.hadoopathome.kafkastreams;
+
+import uk.co.hadoopathome.kafkastreams.drools.ZebraMsg;
+
+rule "If Contains E Prepend x"
+  when message:ZebraMsg (content contains 'e') or message:ZebraMsg (content contains 'E')
+    then
+      message.setContent("xxyyzz"+message.getContent());
+end
+
+rule "If Contains E Prepend y"
+  when message:ZebraMsg (id contains '111') or message:ZebraMsg (id contains '112')
+    then
+      message.setContent("Yep");
+end

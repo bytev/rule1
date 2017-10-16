@@ -1,0 +1,8 @@
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/KafkaStreamsRunner.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/drools/ZebraMsg.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/drools/ZebraMsgBuilder.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/drools/Message.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/configuration/ConfigurationReader.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/KafkaStreamsDroolsMain.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/drools/DroolsSessionFactory.java
+/mnt/devwork/wrk/jboss/WRK/kafka-drools/kafka-streams-drools-master/src/main/java/uk/co/hadoopathome/kafkastreams/drools/DroolsRulesApplier.java
